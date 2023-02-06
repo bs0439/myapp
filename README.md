@@ -1,2 +1,2 @@
 # myapp
-myapp 프로젵그
+myapp 프로잭트
